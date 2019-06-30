@@ -1,0 +1,20 @@
+remoteリポジトリ
+
+不動産クローラ：hudouan
+二次深層学習：nijibisyoujyo
+
+git remote add [リポジトリ名] [GITのURL]
+
+
+
+git init
+git add [ファイル名]		　　　⇦ローカルのgitシポジトリに入れるファイルを選択
+git commit -m "[バージョンコメント]"　 ⇦ローカルのgitリポジトリで管理される
+git push [リポジトリ名] master	　　 ⇦オンライン(リモート)のgitリポジトリに押し込む
+
+git pull [リポジトリ名]		　　 ⇦リモートリポジトリからコンテンツをもってくる
+
+
+
+origin:デフォルトのリポジトリ名
+master:デフォルトのブランチ名
