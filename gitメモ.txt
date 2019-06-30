@@ -8,6 +8,7 @@ git remote add [リポジトリ名] [GITのURL]
 
 
 git init
+[remote addをここで行う]
 git add [ファイル名]		　　　⇦ローカルのgitシポジトリに入れるファイルを選択
 git commit -m "[バージョンコメント]"　 ⇦ローカルのgitリポジトリで管理される
 git push [リポジトリ名] master	　　 ⇦オンライン(リモート)のgitリポジトリに押し込む
